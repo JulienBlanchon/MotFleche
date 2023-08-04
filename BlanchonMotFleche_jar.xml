@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlanchonMotFleche:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlanchonMotFleche_jar</output-path>
+    <root id="archive" name="BlanchonMotFleche.jar">
+      <element id="module-output" name="BlanchonMotFleche" />
+    </root>
+  </artifact>
+</component>
