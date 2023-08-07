@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"fr.limayrac.b3rpi"},{"l":"fr.limayrac.b3rpi.util"}]
